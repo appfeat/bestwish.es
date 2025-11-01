@@ -1,5 +1,5 @@
 ---
-title: "Compliance"
+title: "Privacy, Terms and Cookies"
 slug: "compliance"
 date: 2025-11-01
 draft: false
@@ -38,7 +38,7 @@ We may use trusted third parties that comply with relevant data protection stand
 
 ### Your Rights
 You may request access, correction, or deletion of your data at any time.  
-📧 **privacy@bestwish.es**
+📧 privacy at appfeat dot com
 
 ---
 

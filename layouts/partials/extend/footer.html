@@ -1,0 +1,17 @@
+{{ define "extend_footer" }}
+  <div id="cookie-consent" style="display:none; position:fixed; bottom:0; left:0; right:0; background:var(--color-bg-primary); color:var(--color-text-primary); padding:1rem; text-align:center; z-index:1000; font-size:0.9rem;">
+    🍪 BestWish.es uses cookies for analytics and ads.
+    <a href="/compliance/" style="color:var(--color-accent); text-decoration:underline;">Learn more</a>.
+    <button id="accept-cookies" style="margin-left:1rem; background:var(--color-accent); color:var(--color-bg-primary); border:none; padding:0.4rem 0.8rem; border-radius:6px; cursor:pointer;">Accept</button>
+  </div>
+
+  <script>
+    if (!localStorage.getItem('cookiesAccepted')) {
+      document.getElementById('cookie-consent').style.display = 'block';
+    }
+    document.getElementById('accept-cookies').onclick = function() {
+      localStorage.setItem('cookiesAccepted', 'true');
+      document.getElementById('cookie-consent').style.display = 'none';
+    };
+  </script>
+{{ end }}
