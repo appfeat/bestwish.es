@@ -1,0 +1,18 @@
+colorScheme = "default"
+defaultTheme = "light"
+logo = "logo.png"
+
+showAuthor = false
+showReadingTime = false
+showEdit = false
+showDate = false
+mainSections = ["posts"]
+
+[homepage]
+layout = "hero"
+title = "Send the Perfect Wish 🎉"
+subtitle = "Personal, beautiful & instant — from BestWish.es"
+
+[social]
+twitter = ""
+github = ""

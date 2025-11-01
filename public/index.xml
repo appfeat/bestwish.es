@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BestWish.es</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on BestWish.es</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Compliance</title>
+      <link>http://localhost:1313/compliance/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/compliance/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;Compliance
+    &lt;div id=&#34;compliance&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#compliance&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Last updated: November 1, 2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;BestWish.es&lt;/strong&gt;. This page explains how we handle your information and disclose our participation in advertising and affiliate programs.&lt;/p&gt;
+&lt;hr&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;1. Privacy Policy
+    &lt;div id=&#34;1-privacy-policy&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-privacy-policy&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;
+    
+&lt;/h2&gt;
+&lt;p&gt;We respect your privacy and are committed to protecting your personal data.&lt;br&gt;
+BestWish.es does not sell or trade user information. Data is processed only to provide, maintain, and improve our services.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

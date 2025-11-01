@@ -1,0 +1,15 @@
+baseURL = "https://bestwish.es/"
+languageCode = "en"
+title = "BestWish.es ✨"
+theme = "blowfish"
+enableRobotsTXT = true
+defaultContentLanguage = "en"
+
+[pagination]
+pagerSize = 10
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
